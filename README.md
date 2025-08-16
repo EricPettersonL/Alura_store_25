@@ -54,7 +54,7 @@ Os detalhes completos estão no relatório final dentro do notebook.
 ## 📥 Como Executar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone https://github.com/EricPettersonL/Alura_store_25.git
    ```
 2. Abra o projeto no Google Colab ou Jupyter Notebook.
 
@@ -65,4 +65,4 @@ Os detalhes completos estão no relatório final dentro do notebook.
 4. Execute as células do notebook.
 
 ## 📝 Autor
-* Eric Petterson - 
+* Eric Petterson 
